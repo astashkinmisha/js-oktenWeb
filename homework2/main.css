@@ -30,3 +30,33 @@
 /*    height: 400px;*/
 /*    border-style: solid;*/
 /*}*/
+
+
+/*.wrap {*/
+/*    display: flex;*/
+/*    flex-wrap: wrap;*/
+
+/*}*/
+
+/*.post-card {*/
+/*    width: 18%;*/
+/*    margin: 3px;*/
+/*    background: lightgrey;*/
+/*}*/
+
+
+.users-box {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+.user-block {
+    width: 49%;
+    margin: 1px;
+    border-style: solid;
+    background: pink;
+}
+
+
+
